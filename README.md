@@ -1,6 +1,15 @@
 # Iowa House Price Prediction
 
-This project builds a machine learning pipeline to predict house prices in Iowa using features like lot size, year built, and the number of rooms. This was completed as part of the Kaggle "Intro to Machine Learning" course.
+This project builds an end-to-end machine learning pipeline to predict house prices in Iowa using features like lot size, year built, and the number of rooms. This was completed as part of the Kaggle "Intro to Machine Learning" course.
+
+## Project Structure
+├── data/
+│   ├── train.csv
+│   └── test.csv
+├── notebooks/
+│   └── iowa_house_prices.ipynb
+├── README.md
+└── requirements.txt
 
 ## Project Overview
 - **Data Source:** Kaggle Housing Prices Competition for Kaggle Learn Users
